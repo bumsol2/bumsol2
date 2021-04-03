@@ -1,19 +1,15 @@
-항상 주어진 일에 최선을 다했지만 현실은 시궁창이지만 최선을 다했습니다.
+1년동안 회사내규에 3일이여서 3일 쉬고, 주말 수당 하나도 못받고 일하고, 테스트 장비 안사줘서 로또 3등으로 테스트 장비 샀지만
+영업이 팔아 먹을려고 해서 퇴사
 
-<!--
-**bumsol2/bumsol2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+근로 계약서 안써줘서 퇴사
 
-Here are some ideas to get you started:
+매일마다 점심 굶어가면서 15시간 이상씩 일했지만 (옆에 사람이 일하기 싫어서 인수인계 안받아서) 
+"너아니여도 할 사람 많아", "원래 그런거야","너 갈떄 없어서 우리회사 온거 아니냐" 퇴사
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+인프라를 2명이서 운영하다 옆에사람이 위궤양 걸리고, 나도 타이레놀과 간기능 개선제 먹으면서 일하다 퇴사.
+
+면접보면 어떻게 믿죠 지친다. 
+
 
 항상 최선을 다 해서 열심히 했거등요
 세상에는 참 많은 열심히 사는 보통 사람들이 많습니다.
