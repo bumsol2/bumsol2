@@ -1,4 +1,4 @@
-### Hi there 👋
+항상 주어진 일에 최선을 다했지만 현실은 시궁창이지만 최선을 다했습니다.
 
 <!--
 **bumsol2/bumsol2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
